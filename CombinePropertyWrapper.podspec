@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name                  = "CombinePropertyWrapper"
-    s.version               = "0.0.1"
+    s.version               = "0.0.2"
     s.summary               = "Combine PropertyWrapper"
     s.homepage              = "https://github.com/jiasongs/CombinePropertyWrapper"
     s.license               = "MIT"
