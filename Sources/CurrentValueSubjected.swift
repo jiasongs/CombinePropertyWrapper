@@ -1,5 +1,5 @@
 //
-//  ValueSubjected.swift
+//  CurrentValueSubjected.swift
 //  CombinePropertyWrapper
 //
 //  Created by jiasong on 2023/6/1.
@@ -8,7 +8,7 @@
 import Foundation
 import Combine
 
-@propertyWrapper public final class ValueSubjected<Element> {
+@propertyWrapper public final class CurrentValueSubjected<Element> {
     
     public var wrappedValue: Element {
         get {

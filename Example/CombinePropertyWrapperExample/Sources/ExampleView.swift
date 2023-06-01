@@ -10,7 +10,7 @@ import CombinePropertyWrapper
 
 class ExampleView: UIView {
 
-    @ValueSubjected fileprivate(set) var text: String = "1"
+    @CurrentValueSubjected fileprivate(set) var text: String = "1"
 
 }
 
