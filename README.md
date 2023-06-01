@@ -1,2 +1,3 @@
 # CombinePropertyWrapper
-Combine PropertyWrapper
+
+# this library deprecated, please use: https://github.com/jiasongs/CombineExtensions

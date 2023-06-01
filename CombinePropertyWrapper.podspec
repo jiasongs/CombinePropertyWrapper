@@ -13,4 +13,5 @@ Pod::Spec.new do |s|
     s.requires_arc          = true
     s.framework             = "Combine"
     s.source_files          = "Sources"
+    s.deprecated            = true
 end
